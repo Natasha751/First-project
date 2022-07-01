@@ -11,4 +11,4 @@ console.log(size.slice(2));
 let arrayData=[10,89,90,88,78,76];
 console.log(arrayData.indexOf(10));
 console.log(arrayData.indexOf(90));
-console.log(arrayData.indexOf(70));
+console.log(arrayData.indexOf(70));//element is not available

@@ -5,7 +5,7 @@ let activities = [
     ['Play Game', 1],
     ['Sleep', 7]
 ];
-console.table(activities);
+console.table(activities);//creating 2-D array
 
 for (let i = 0; i < activities.length; i++) {
     // get the size of the inner array
